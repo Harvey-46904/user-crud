@@ -9,7 +9,7 @@ Esta es una aplicación CRUD para la gestión de usuarios, construida con Larave
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone <url_del_repositorio>
+git clone https://github.com/Harvey-46904/user-crud.git
 cd user-crud/
 ```
 
